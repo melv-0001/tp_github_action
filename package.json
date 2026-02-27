@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "EL",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bats": "^1.13.0"
+  }
 }
